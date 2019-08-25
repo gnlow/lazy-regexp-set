@@ -1,25 +1,25 @@
 {
-  "name": "mylibrary",
+  "name": "lazy-regexp-set",
   "version": "0.0.0",
   "description": "",
-  "source": "src/mylibrary.ts",
-  "main": "dist/mylibrary.js",
-  "module": "dist/mylibrary.mjs",
-  "unpkg": "dist/mylibrary.umd.js",
+  "source": "src/lazy-regexp-set.ts",
+  "main": "dist/lazy-regexp-set.js",
+  "module": "dist/lazy-regexp-set.mjs",
+  "unpkg": "dist/lazy-regexp-set.umd.js",
   "scripts": {
     "build": "microbundle --no-sourcemap",
     "dev": "microbundle watch --no-sourcemap"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gnlow/mylibrary.git"
+    "url": "git+https://github.com/gnlow/lazy-regexp-set.git"
   },
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/gnlow/mylibrary/issues"
+    "url": "https://github.com/gnlow/lazy-regexp-set/issues"
   },
-  "homepage": "https://github.com/gnlow/mylibrary#readme",
+  "homepage": "https://github.com/gnlow/lazy-regexp-set#readme",
   "devDependencies": {
     "microbundle": "^0.12.0-next.6"
   }

@@ -1,4 +1,4 @@
-# mylibrary
+# lazy-regexp-set
 Description
 ```js
 
@@ -6,14 +6,14 @@ Description
 ## Installation
 ### NPM
 ```bash
-npm install mylibrary
+npm install lazy-regexp-set
 ```
 ```js
-const mylibrary = require("mylibrary");
+const lazy-regexp-set = require("lazy-regexp-set");
 ```
 ### CDN
 ```html
-<script src="https://unpkg.com/browse/mylibrary/dist/mylibrary.umd.js"></script>
+<script src="https://unpkg.com/browse/lazy-regexp-set/dist/lazy-regexp-set.umd.js"></script>
 ```
 ## How To Use
 ```js
